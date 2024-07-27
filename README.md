@@ -18,7 +18,6 @@
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Numpy" alt="Numpy" width="65" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="65" height="80"/>&nbsp;  
   <img src="https://github.com/MicrosoftDocs/visualstudio-docs/blob/main/docs/media/vs-code-logo.svg" title="VSCode" alt="Jupyter" width="65" height="80"/>&nbsp;  
-  <img src="https://github.com/IntoTheDark19/msg/blob/main/c-mo-redimensionar-fotos-en-ubuntu-con-imagemagick.jpg" title="Linux" alt="Linux" width="65" height="80"/>&nbsp;
 </div>
 
 <br>
