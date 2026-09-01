@@ -1,4 +1,4 @@
-👋 Hi, I’m Dmitrii Fazlullin (aka @IntoTheDark)
+👋 Hi, I’m @IntoTheDark
 
 <div id="badges" align="left">
   <a href="https://t.me/Graysev">
@@ -15,7 +15,6 @@
   <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" title="SciPy" alt="Pandas" width="65" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Numpy" alt="Numpy" width="65" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="65" height="80"/>&nbsp;  
   <img src="https://github.com/MicrosoftDocs/visualstudio-docs/blob/main/docs/media/vs-code-logo.svg" title="VSCode" alt="Jupyter" width="65" height="80"/>&nbsp;  
 </div>
